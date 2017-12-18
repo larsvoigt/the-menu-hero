@@ -50,16 +50,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2A6796FE1FDF190500575035 /* the menu hero.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "the menu hero.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A6796FE1FDF190500575035 /* the-menu-hero.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "the-menu-hero.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6797011FDF190500575035 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A6797031FDF190500575035 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2A6797061FDF190500575035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2A6797081FDF190500575035 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A67970D1FDF190500575035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A6797121FDF190600575035 /* the menu heroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the menu heroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A6797121FDF190600575035 /* the-menu-heroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the-menu-heroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6797161FDF190600575035 /* the_menu_heroTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = the_menu_heroTests.swift; sourceTree = "<group>"; };
 		2A6797181FDF190600575035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A67971D1FDF190600575035 /* the menu heroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the menu heroUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A67971D1FDF190600575035 /* the-menu-heroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the-menu-heroUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6797211FDF190600575035 /* the_menu_heroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = the_menu_heroUITests.swift; sourceTree = "<group>"; };
 		2A6797231FDF190600575035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A6797311FDF209B00575035 /* ShowSplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowSplashScreen.swift; sourceTree = "<group>"; };
@@ -111,9 +111,9 @@
 			isa = PBXGroup;
 			children = (
 				2AA9471A1FDFD698006C3BA1 /* icons */,
-				2A6797001FDF190500575035 /* the menu hero */,
-				2A6797151FDF190600575035 /* the menu heroTests */,
-				2A6797201FDF190600575035 /* the menu heroUITests */,
+				2A6797001FDF190500575035 /* the-menu-hero */,
+				2A6797151FDF190600575035 /* the-menu-heroTests */,
+				2A6797201FDF190600575035 /* the-menu-heroUITests */,
 				2A6796FF1FDF190500575035 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -121,14 +121,14 @@
 		2A6796FF1FDF190500575035 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A6796FE1FDF190500575035 /* the menu hero.app */,
-				2A6797121FDF190600575035 /* the menu heroTests.xctest */,
-				2A67971D1FDF190600575035 /* the menu heroUITests.xctest */,
+				2A6796FE1FDF190500575035 /* the-menu-hero.app */,
+				2A6797121FDF190600575035 /* the-menu-heroTests.xctest */,
+				2A67971D1FDF190600575035 /* the-menu-heroUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2A6797001FDF190500575035 /* the menu hero */ = {
+		2A6797001FDF190500575035 /* the-menu-hero */ = {
 			isa = PBXGroup;
 			children = (
 				2AA947821FE28FCD006C3BA1 /* controller */,
@@ -142,25 +142,25 @@
 				2AA9478A1FE2B94E006C3BA1 /* MealCell.swift */,
 				2AA9478F1FE2FEB3006C3BA1 /* CategoryCell.swift */,
 			);
-			path = "the menu hero";
+			path = "the-menu-hero";
 			sourceTree = "<group>";
 		};
-		2A6797151FDF190600575035 /* the menu heroTests */ = {
+		2A6797151FDF190600575035 /* the-menu-heroTests */ = {
 			isa = PBXGroup;
 			children = (
 				2A6797161FDF190600575035 /* the_menu_heroTests.swift */,
 				2A6797181FDF190600575035 /* Info.plist */,
 			);
-			path = "the menu heroTests";
+			path = "the-menu-heroTests";
 			sourceTree = "<group>";
 		};
-		2A6797201FDF190600575035 /* the menu heroUITests */ = {
+		2A6797201FDF190600575035 /* the-menu-heroUITests */ = {
 			isa = PBXGroup;
 			children = (
 				2A6797211FDF190600575035 /* the_menu_heroUITests.swift */,
 				2A6797231FDF190600575035 /* Info.plist */,
 			);
-			path = "the menu heroUITests";
+			path = "the-menu-heroUITests";
 			sourceTree = "<group>";
 		};
 		2AA9471A1FDFD698006C3BA1 /* icons */ = {
@@ -202,9 +202,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A6796FD1FDF190500575035 /* the menu hero */ = {
+		2A6796FD1FDF190500575035 /* the-menu-hero */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A6797261FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu hero" */;
+			buildConfigurationList = 2A6797261FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-hero" */;
 			buildPhases = (
 				2A6796FA1FDF190500575035 /* Sources */,
 				2A6796FB1FDF190500575035 /* Frameworks */,
@@ -214,14 +214,14 @@
 			);
 			dependencies = (
 			);
-			name = "the menu hero";
+			name = "the-menu-hero";
 			productName = "the menu hero";
-			productReference = 2A6796FE1FDF190500575035 /* the menu hero.app */;
+			productReference = 2A6796FE1FDF190500575035 /* the-menu-hero.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2A6797111FDF190600575035 /* the menu heroTests */ = {
+		2A6797111FDF190600575035 /* the-menu-heroTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A6797291FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu heroTests" */;
+			buildConfigurationList = 2A6797291FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-heroTests" */;
 			buildPhases = (
 				2A67970E1FDF190600575035 /* Sources */,
 				2A67970F1FDF190600575035 /* Frameworks */,
@@ -232,14 +232,14 @@
 			dependencies = (
 				2A6797141FDF190600575035 /* PBXTargetDependency */,
 			);
-			name = "the menu heroTests";
+			name = "the-menu-heroTests";
 			productName = "the menu heroTests";
-			productReference = 2A6797121FDF190600575035 /* the menu heroTests.xctest */;
+			productReference = 2A6797121FDF190600575035 /* the-menu-heroTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2A67971C1FDF190600575035 /* the menu heroUITests */ = {
+		2A67971C1FDF190600575035 /* the-menu-heroUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A67972C1FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu heroUITests" */;
+			buildConfigurationList = 2A67972C1FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-heroUITests" */;
 			buildPhases = (
 				2A6797191FDF190600575035 /* Sources */,
 				2A67971A1FDF190600575035 /* Frameworks */,
@@ -250,9 +250,9 @@
 			dependencies = (
 				2A67971F1FDF190600575035 /* PBXTargetDependency */,
 			);
-			name = "the menu heroUITests";
+			name = "the-menu-heroUITests";
 			productName = "the menu heroUITests";
-			productReference = 2A67971D1FDF190600575035 /* the menu heroUITests.xctest */;
+			productReference = 2A67971D1FDF190600575035 /* the-menu-heroUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -281,7 +281,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2A6796F91FDF190500575035 /* Build configuration list for PBXProject "the menu hero" */;
+			buildConfigurationList = 2A6796F91FDF190500575035 /* Build configuration list for PBXProject "the-menu-hero" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -294,9 +294,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A6796FD1FDF190500575035 /* the menu hero */,
-				2A6797111FDF190600575035 /* the menu heroTests */,
-				2A67971C1FDF190600575035 /* the menu heroUITests */,
+				2A6796FD1FDF190500575035 /* the-menu-hero */,
+				2A6797111FDF190600575035 /* the-menu-heroTests */,
+				2A67971C1FDF190600575035 /* the-menu-heroUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -375,12 +375,12 @@
 /* Begin PBXTargetDependency section */
 		2A6797141FDF190600575035 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2A6796FD1FDF190500575035 /* the menu hero */;
+			target = 2A6796FD1FDF190500575035 /* the-menu-hero */;
 			targetProxy = 2A6797131FDF190600575035 /* PBXContainerItemProxy */;
 		};
 		2A67971F1FDF190600575035 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2A6796FD1FDF190500575035 /* the menu hero */;
+			target = 2A6796FD1FDF190500575035 /* the-menu-hero */;
 			targetProxy = 2A67971E1FDF190600575035 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -511,7 +511,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KY8GT8472C;
-				INFOPLIST_FILE = "the menu hero/Info.plist";
+				INFOPLIST_FILE = "the-menu-hero/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "DZB.the-menu-hero";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -527,7 +527,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KY8GT8472C;
-				INFOPLIST_FILE = "the menu hero/Info.plist";
+				INFOPLIST_FILE = "the-menu-hero/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "DZB.the-menu-hero";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -549,7 +549,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/the menu hero.app/the menu hero";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/the-menu-hero.app/the-menu-hero";
 			};
 			name = Debug;
 		};
@@ -566,7 +566,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/the menu hero.app/the menu hero";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/the-menu-hero.app/the-menu-hero";
 			};
 			name = Release;
 		};
@@ -605,7 +605,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A6796F91FDF190500575035 /* Build configuration list for PBXProject "the menu hero" */ = {
+		2A6796F91FDF190500575035 /* Build configuration list for PBXProject "the-menu-hero" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A6797241FDF190600575035 /* Debug */,
@@ -614,7 +614,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A6797261FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu hero" */ = {
+		2A6797261FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-hero" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A6797271FDF190600575035 /* Debug */,
@@ -623,7 +623,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A6797291FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu heroTests" */ = {
+		2A6797291FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-heroTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A67972A1FDF190600575035 /* Debug */,
@@ -632,7 +632,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A67972C1FDF190600575035 /* Build configuration list for PBXNativeTarget "the menu heroUITests" */ = {
+		2A67972C1FDF190600575035 /* Build configuration list for PBXNativeTarget "the-menu-heroUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A67972D1FDF190600575035 /* Debug */,

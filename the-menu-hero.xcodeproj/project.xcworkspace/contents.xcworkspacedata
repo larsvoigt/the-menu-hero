@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:the menu hero.xcodeproj">
+      location = "self:/Users/larsvoigt/workspace/the menu hero/the-menu-hero.xcodeproj">
    </FileRef>
 </Workspace>
