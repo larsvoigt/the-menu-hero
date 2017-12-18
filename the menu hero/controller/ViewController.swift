@@ -10,9 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var imgMenu: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        self.imgMenu.layer.borderWidth = 6;
+        self.imgMenu.layer.borderColor = UIColor.white.cgColor; self.navigationController?.navigationBar.barStyle = UIBarStyle.black
     }
 
     override func didReceiveMemoryWarning() {

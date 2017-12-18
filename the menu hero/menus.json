@@ -1,0 +1,111 @@
+{
+    "restaurants":[
+                   {
+                   "name":"Kellari - Griechische Gastlichkeit ",
+                   "coordinates":{
+                   "lat": 51.344484
+                   "lng": 12.369252
+                   },
+                   "category":[
+                               {
+                               "title":"Kalte Vorspeisen",
+                               "meals":[
+                                        {
+                                        "number" : "1",
+                                        "title":"Oliven und Peperoni",
+                                        "subtitle":"im besten Olivenöl und Kräutern eingelegt",
+                                        "price":"3,80 €"
+                                        },
+                                        {
+                                        "number" : "2",
+                                        "title":"Chtipiti",
+                                        "subtitle":"Schafscreme mit Olivenöl, Pfeffer und Peperoni verfeinert",
+                                        "price":"5,90 €"
+                                        }
+                                        ]
+                               },
+                               {
+                               "title":"Warme Vorspeisen",
+                               "meals":[
+                                        {
+                                        "number" : "8",
+                                        "title":"Garides Egio",
+                                        "subtitle":"Garnelen gebacken in bestem Olivenöl mit Tomaten-Schafskäsesauce, verfeinert mit Weißwein",
+                                        "price":"8,60 €"
+                                        },
+                                        {
+                                        "number" : "9",
+                                        "title":"Baby-Kalamaris",
+                                        "subtitle":"gebraten in Olivenöl mit frischen Knoblauch verfeinert",
+                                        "price":"7.80 €"
+                                        },
+                                        {
+                                        "number" : "10",
+                                        "title":" Peperoni gegrillt",
+                                        "subtitle":"mit Knoblauch verfeinert",
+                                        "price":"4,10 €"
+                                        }
+                                        ]
+                               },
+                               {
+                               "title":"Käsespezialitäten",
+                               "meals":[
+                                        {
+                                        "number" : "20",
+                                        "title":"Feta",
+                                        "subtitle":"griechischer Schafskäse (Feta) serviert mit Oregano. Kapembeeren und kalt gepressten Kalamata Olivenöl",
+                                        "price":"5,90 €"
+                                        },
+                                        {
+                                        "number" : "21",
+                                        "title":"Saganaki",
+                                        "subtitle":"panierter griechischer Schafskäse (Feta) aus der Pfanne",
+                                        "price":"6,90 €"
+                                        },
+                                        {
+                                        "number" : "22",
+                                        "title":" Gebackener Schafskäte (Feta)",
+                                        "subtitle":"mit Knoblauch verfeinert",
+                                        "price":"7,70 €"
+                                        }
+                                        ]
+                               },
+                               {
+                               "title":"Salate",
+                               "meals":[
+                                        {
+                                        "number" : "30",
+                                        "title":"Anamikti Salata",
+                                        "subtitle":"gemischte Blattsalate der Saison, serviert mit Tomate. Gurke. Kalamata Oliven. Graviera- Ziegenhartkäse mit Pfeffer",
+                                        "price":"6,50 €"
+                                        },
+                                        {
+                                        "number" : "31",
+                                        "title":"Kotopoulo-Salata",
+                                        "subtitle":"gemischte Blattsalate der Saison mit Hähnchcnbrustfilct. serviert mit Tomate. Gurke. Kalamata Oliven und hausgemachter Chalkidiki-Vinaigrette",
+                                        "price":"9,50 €"
+                                        },
+                                        {
+                                        "number" : "32",
+                                        "title":"Choriatikt",
+                                        "subtitle":"Bauernsalat mit Schafskäse (Feta). Tomate, Gurke, Zwiebeln, großen Kapembeeren. Spitzpaprika. Kalamata Oliven und kalt gepressten Kalamata Olivenöl",
+                                        "price":"7,40 €"
+                                        }
+                                        ]
+                               },
+                               {
+                               "title":"Suppen",
+                               "meals":[
+                                        {
+                                        "number" : "34",
+                                        "title":"Tagessuppe",
+                                        "subtitle":"täglich wechselnd - Fragen Sie unser Personal!",
+                                        "price":"4,50 €"
+                                        }
+                                        ]
+                               }
+                               ]
+                   }
+                   ]
+}
+

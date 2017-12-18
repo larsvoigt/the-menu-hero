@@ -11,9 +11,25 @@
 		2A6797041FDF190500575035 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6797031FDF190500575035 /* ViewController.swift */; };
 		2A6797071FDF190500575035 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A6797051FDF190500575035 /* Main.storyboard */; };
 		2A6797091FDF190500575035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A6797081FDF190500575035 /* Assets.xcassets */; };
-		2A67970C1FDF190500575035 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A67970A1FDF190500575035 /* LaunchScreen.storyboard */; };
 		2A6797171FDF190600575035 /* the_menu_heroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6797161FDF190600575035 /* the_menu_heroTests.swift */; };
 		2A6797221FDF190600575035 /* the_menu_heroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6797211FDF190600575035 /* the_menu_heroUITests.swift */; };
+		2A6797321FDF209B00575035 /* ShowSplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A6797311FDF209B00575035 /* ShowSplashScreen.swift */; };
+		2AA947211FDFD8EC006C3BA1 /* icons8-karten-stecknadel-24.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AA947201FDFD8EC006C3BA1 /* icons8-karten-stecknadel-24.png */; };
+		2AA947231FDFDC44006C3BA1 /* pin-map-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AA947221FDFDC44006C3BA1 /* pin-map-7.png */; };
+		2AA947271FDFE355006C3BA1 /* order-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AA947261FDFE355006C3BA1 /* order-icon.png */; };
+		2AA947651FE05AC5006C3BA1 /* the-menu-final-5718a9900140e.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AA947641FE05AC5006C3BA1 /* the-menu-final-5718a9900140e.jpg */; };
+		2AA947671FE06753006C3BA1 /* CategoryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA947661FE06753006C3BA1 /* CategoryController.swift */; };
+		2AA947691FE068B3006C3BA1 /* menus.json in Resources */ = {isa = PBXBuildFile; fileRef = 2AA947681FE068B3006C3BA1 /* menus.json */; };
+		2AA947841FE290D5006C3BA1 /* MealController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA947831FE290D5006C3BA1 /* MealController.swift */; };
+		2AA947851FE2A600006C3BA1 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA947811FE28F8A006C3BA1 /* Menu.swift */; };
+		2AA947861FE2A60E006C3BA1 /* Meals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA947801FE28F8A006C3BA1 /* Meals.swift */; };
+		2AA947871FE2A611006C3BA1 /* Restaurants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA9477F1FE28F8A006C3BA1 /* Restaurants.swift */; };
+		2AA947881FE2A615006C3BA1 /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA9477D1FE28F8A006C3BA1 /* Coordinates.swift */; };
+		2AA947891FE2A618006C3BA1 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA9477E1FE28F8A006C3BA1 /* Category.swift */; };
+		2AA9478B1FE2B94E006C3BA1 /* MealCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA9478A1FE2B94E006C3BA1 /* MealCell.swift */; };
+		2AA9478E1FE2FE1E006C3BA1 /* 71a7182a036300d4b3587172ffa3c8a7_4889.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AA9471B1FDFD6A6006C3BA1 /* 71a7182a036300d4b3587172ffa3c8a7_4889.png */; };
+		2AA947901FE2FEB3006C3BA1 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA9478F1FE2FEB3006C3BA1 /* CategoryCell.swift */; };
+		2AA947921FE6EAB0006C3BA1 /* CategoryUINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA947911FE6EAB0006C3BA1 /* CategoryUINavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +55,6 @@
 		2A6797031FDF190500575035 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2A6797061FDF190500575035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2A6797081FDF190500575035 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2A67970B1FDF190500575035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A67970D1FDF190500575035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A6797121FDF190600575035 /* the menu heroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the menu heroTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6797161FDF190600575035 /* the_menu_heroTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = the_menu_heroTests.swift; sourceTree = "<group>"; };
@@ -47,6 +62,24 @@
 		2A67971D1FDF190600575035 /* the menu heroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the menu heroUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A6797211FDF190600575035 /* the_menu_heroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = the_menu_heroUITests.swift; sourceTree = "<group>"; };
 		2A6797231FDF190600575035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A6797311FDF209B00575035 /* ShowSplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowSplashScreen.swift; sourceTree = "<group>"; };
+		2AA9471B1FDFD6A6006C3BA1 /* 71a7182a036300d4b3587172ffa3c8a7_4889.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 71a7182a036300d4b3587172ffa3c8a7_4889.png; sourceTree = "<group>"; };
+		2AA9471D1FDFD6AC006C3BA1 /* rsz_71a7182a036300d4b3587172ffa3c8a7_4889.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rsz_71a7182a036300d4b3587172ffa3c8a7_4889.png; path = ../../Downloads/rsz_71a7182a036300d4b3587172ffa3c8a7_4889.png; sourceTree = "<group>"; };
+		2AA947201FDFD8EC006C3BA1 /* icons8-karten-stecknadel-24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-karten-stecknadel-24.png"; path = "../../Downloads/icons8-karten-stecknadel-24.png"; sourceTree = "<group>"; };
+		2AA947221FDFDC44006C3BA1 /* pin-map-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pin-map-7.png"; path = "../../Downloads/iconbeast-lite-200/iconbeast lite 200 - png/pin-map-7.png"; sourceTree = "<group>"; };
+		2AA947261FDFE355006C3BA1 /* order-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "order-icon.png"; path = "../../Downloads/order-icon.png"; sourceTree = "<group>"; };
+		2AA947641FE05AC5006C3BA1 /* the-menu-final-5718a9900140e.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "the-menu-final-5718a9900140e.jpg"; path = "../../Downloads/the-menu-final-5718a9900140e.jpg"; sourceTree = "<group>"; };
+		2AA947661FE06753006C3BA1 /* CategoryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryController.swift; sourceTree = "<group>"; };
+		2AA947681FE068B3006C3BA1 /* menus.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = menus.json; sourceTree = "<group>"; };
+		2AA9477D1FE28F8A006C3BA1 /* Coordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinates.swift; sourceTree = "<group>"; };
+		2AA9477E1FE28F8A006C3BA1 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		2AA9477F1FE28F8A006C3BA1 /* Restaurants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurants.swift; sourceTree = "<group>"; };
+		2AA947801FE28F8A006C3BA1 /* Meals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meals.swift; sourceTree = "<group>"; };
+		2AA947811FE28F8A006C3BA1 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		2AA947831FE290D5006C3BA1 /* MealController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealController.swift; sourceTree = "<group>"; };
+		2AA9478A1FE2B94E006C3BA1 /* MealCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealCell.swift; sourceTree = "<group>"; };
+		2AA9478F1FE2FEB3006C3BA1 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		2AA947911FE6EAB0006C3BA1 /* CategoryUINavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryUINavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +110,7 @@
 		2A6796F51FDF190500575035 = {
 			isa = PBXGroup;
 			children = (
+				2AA9471A1FDFD698006C3BA1 /* icons */,
 				2A6797001FDF190500575035 /* the menu hero */,
 				2A6797151FDF190600575035 /* the menu heroTests */,
 				2A6797201FDF190600575035 /* the menu heroUITests */,
@@ -97,12 +131,16 @@
 		2A6797001FDF190500575035 /* the menu hero */ = {
 			isa = PBXGroup;
 			children = (
+				2AA947821FE28FCD006C3BA1 /* controller */,
+				2AA9476A1FE0710A006C3BA1 /* model */,
 				2A6797011FDF190500575035 /* AppDelegate.swift */,
-				2A6797031FDF190500575035 /* ViewController.swift */,
 				2A6797051FDF190500575035 /* Main.storyboard */,
 				2A6797081FDF190500575035 /* Assets.xcassets */,
-				2A67970A1FDF190500575035 /* LaunchScreen.storyboard */,
 				2A67970D1FDF190500575035 /* Info.plist */,
+				2A6797311FDF209B00575035 /* ShowSplashScreen.swift */,
+				2AA947681FE068B3006C3BA1 /* menus.json */,
+				2AA9478A1FE2B94E006C3BA1 /* MealCell.swift */,
+				2AA9478F1FE2FEB3006C3BA1 /* CategoryCell.swift */,
 			);
 			path = "the menu hero";
 			sourceTree = "<group>";
@@ -123,6 +161,42 @@
 				2A6797231FDF190600575035 /* Info.plist */,
 			);
 			path = "the menu heroUITests";
+			sourceTree = "<group>";
+		};
+		2AA9471A1FDFD698006C3BA1 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				2AA9471B1FDFD6A6006C3BA1 /* 71a7182a036300d4b3587172ffa3c8a7_4889.png */,
+				2AA947641FE05AC5006C3BA1 /* the-menu-final-5718a9900140e.jpg */,
+				2AA947261FDFE355006C3BA1 /* order-icon.png */,
+				2AA947221FDFDC44006C3BA1 /* pin-map-7.png */,
+				2AA947201FDFD8EC006C3BA1 /* icons8-karten-stecknadel-24.png */,
+				2AA9471D1FDFD6AC006C3BA1 /* rsz_71a7182a036300d4b3587172ffa3c8a7_4889.png */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
+		2AA9476A1FE0710A006C3BA1 /* model */ = {
+			isa = PBXGroup;
+			children = (
+				2AA9477E1FE28F8A006C3BA1 /* Category.swift */,
+				2AA9477D1FE28F8A006C3BA1 /* Coordinates.swift */,
+				2AA947811FE28F8A006C3BA1 /* Menu.swift */,
+				2AA947801FE28F8A006C3BA1 /* Meals.swift */,
+				2AA9477F1FE28F8A006C3BA1 /* Restaurants.swift */,
+			);
+			name = model;
+			sourceTree = "<group>";
+		};
+		2AA947821FE28FCD006C3BA1 /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				2AA947661FE06753006C3BA1 /* CategoryController.swift */,
+				2A6797031FDF190500575035 /* ViewController.swift */,
+				2AA947831FE290D5006C3BA1 /* MealController.swift */,
+				2AA947911FE6EAB0006C3BA1 /* CategoryUINavigationController.swift */,
+			);
+			path = controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,8 +306,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A67970C1FDF190500575035 /* LaunchScreen.storyboard in Resources */,
+				2AA947271FDFE355006C3BA1 /* order-icon.png in Resources */,
 				2A6797091FDF190500575035 /* Assets.xcassets in Resources */,
+				2AA947651FE05AC5006C3BA1 /* the-menu-final-5718a9900140e.jpg in Resources */,
+				2AA947231FDFDC44006C3BA1 /* pin-map-7.png in Resources */,
+				2AA947211FDFD8EC006C3BA1 /* icons8-karten-stecknadel-24.png in Resources */,
+				2AA947691FE068B3006C3BA1 /* menus.json in Resources */,
+				2AA9478E1FE2FE1E006C3BA1 /* 71a7182a036300d4b3587172ffa3c8a7_4889.png in Resources */,
 				2A6797071FDF190500575035 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,8 +338,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AA947871FE2A611006C3BA1 /* Restaurants.swift in Sources */,
+				2AA947891FE2A618006C3BA1 /* Category.swift in Sources */,
+				2AA947671FE06753006C3BA1 /* CategoryController.swift in Sources */,
 				2A6797041FDF190500575035 /* ViewController.swift in Sources */,
+				2AA947841FE290D5006C3BA1 /* MealController.swift in Sources */,
+				2AA9478B1FE2B94E006C3BA1 /* MealCell.swift in Sources */,
 				2A6797021FDF190500575035 /* AppDelegate.swift in Sources */,
+				2A6797321FDF209B00575035 /* ShowSplashScreen.swift in Sources */,
+				2AA947881FE2A615006C3BA1 /* Coordinates.swift in Sources */,
+				2AA947861FE2A60E006C3BA1 /* Meals.swift in Sources */,
+				2AA947921FE6EAB0006C3BA1 /* CategoryUINavigationController.swift in Sources */,
+				2AA947851FE2A600006C3BA1 /* Menu.swift in Sources */,
+				2AA947901FE2FEB3006C3BA1 /* CategoryCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,14 +392,6 @@
 				2A6797061FDF190500575035 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		2A67970A1FDF190500575035 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2A67970B1FDF190500575035 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -426,6 +508,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KY8GT8472C;
 				INFOPLIST_FILE = "the menu hero/Info.plist";
@@ -441,6 +524,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = KY8GT8472C;
 				INFOPLIST_FILE = "the menu hero/Info.plist";
