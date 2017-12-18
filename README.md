@@ -1,2 +1,2 @@
-# the-menu-hero
-accessible ios app
+# The Menu Hero
+Prototyp of an accessible menu app
